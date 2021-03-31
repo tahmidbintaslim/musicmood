@@ -7,7 +7,7 @@ WTForms==2.0.1
 Werkzeug==0.9.6
 cssselect==0.9.1
 itsdangerous==0.24
-lxml==3.4.1
+lxml==4.6.3
 nltk==3.0.0
 numpy==1.9.1
 scikit-learn==0.15.2
